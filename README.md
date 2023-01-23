@@ -35,7 +35,7 @@ Comparing to official results we need a good parameter with our training.
     Easy   Val AP: 0.9443050276341179\
     Medium Val AP: 0.9325524894244597\
     Hard   Val AP: 0.8430304248391535\
-+================================================+\
++================================================+
 
 ## TensorRT
 -[TensorRT](https://github.com/wang-xinyu/tensorrtx/tree/master/retinaface)
