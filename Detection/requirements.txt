@@ -1,0 +1,12 @@
+opencv2
+torch-1.10.1+cu102
+torchaudio-1.10.1+cu102
+torchvision-1.10.1+cu102
+numpy
+cython
+ipython
+pillow
+tornado
+tqdm
+tensorflow
+onnx
